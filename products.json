@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "Tasty And Healty",
+      "price": 135,
+      "image": "./images/menu-1.png"
+    },
+
+    {
+      "id": 2,
+      "title": "Tasty And Healty",
+      "price": 135,
+      "image": "./images/menu-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Tasty And Healty",
+      "price": 135,
+      "image": "./images/menu-3.png"
+    },
+    {
+      "id": 4,
+      "title": "Tasty And Healty",
+      "price": 135,
+      "image": "./images/menu-4.png"
+    },
+    {
+      "id": 5,
+      "title": "Tasty And Healty",
+      "price": 135,
+      "image": "./images/menu-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Tasty And Healty",
+      "price": 145,
+      "image": "./images/menu-6.png"
+    }
+    ,
+    {
+      "id": 7,
+      "title": "Fresh Coffee",
+      "price": 145,
+      "image": "./images/product-1.png"
+    },
+    {
+      "id": 8,
+      "title": "Fresh Coffee",
+      "price": 145,
+      "image": "./images/product-2.png"
+    },
+    {
+      "id": 9,
+      "title": "Fresh Coffee",
+      "price": 145,
+      "image": "./images/product-3.png"
+    }
+  ]
+}
