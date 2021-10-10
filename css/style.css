@@ -8,14 +8,7 @@
 
 
 
-  --black: #222;
-  --white: #fff;
-  --default: #0751a5;
-  --orange: #ff7417;
-  --yellow: #d1b307;
-  --grey: #a0a3ad;
-  --grey2: #f9fafd;
-  --warn: #e71247;
+ 
 }
 
 * {
@@ -350,7 +343,7 @@ body {
 
 .menu .box-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 1.5rem;
 }
 
