@@ -40,7 +40,9 @@ window.onscroll = () => {
   navbar.classList.remove("active");
   search.classList.remove("active");
   cartOverlay.classList.remove("show");
-  cartDom.classList.remove("show");};
+  cartDom.classList.remove("show");
+
+};
 
 
 // cart
@@ -104,7 +106,7 @@ class UI {
     buttonDom = buttons;
     buttons.forEach((button) => {
       const id = button.dataset.id;
-      const inCart = cart.find((item) => item.id === id, 10);
+      const inCart = cart.find((item) => item.id == id, 10);
       if (inCart) {
         button.innerText = "In Cart";
         button.disabled = true;
